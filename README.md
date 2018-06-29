@@ -10,7 +10,7 @@ package main
 import "github.com/dangkaka/logger"
 
 func main() {
-	//LevelFatal   = 0
+    //LevelFatal   = 0
     //LevelError   = 1
     //LevelWarning = 2
     //LevelInfo    = 3
